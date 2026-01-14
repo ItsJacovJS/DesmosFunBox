@@ -33,6 +33,7 @@
 | 🌀 **AniMos**   | Animation     | Watch math come to life with smooth, looping motions. |
 | ✏️ **BezMos**   | Visualization | Draw and manipulate Bezier curves using equations.    |
 | 🕹️ **Despong** | Game          | A Pong-style game built entirely in Desmos!           |
+| 🔫 **GunMos** | Game          | Simple gun game in Desmos           |
 
 > 🔍 Find even more in the `/projects` directory — each folder is a new rabbit hole.
 

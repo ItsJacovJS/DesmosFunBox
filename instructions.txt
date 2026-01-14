@@ -1,0 +1,8 @@
+To use BezMos and Animos;
+- Run it in an IDE of your choice
+
+To use Despong and GunMos;
+- simply copy the code then go to https://desmos.com/calculator, clear the search bar but don't press enter just yet
+- add `javascript:` in the search bar then paste the code then press enter
+- IF THOSE STEPS DON'T WORK, go to CTRL+I or "Inspect" and paste the code in the console
+
